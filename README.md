@@ -29,11 +29,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melyyyyhdz&show_icons=true&theme=default&hide_border=true&title_color=7F77DD&icon_color=7F77DD&text_color=555)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melyyyhdz&show_icons=true&theme=default&hide_border=true&title_color=7F77DD&icon_color=7F77DD&text_color=555)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melyyyyhdz&layout=compact&hide_border=true&title_color=7F77DD&text_color=555)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melyyyhdz&layout=compact&hide_border=true&title_color=7F77DD&text_color=555)
 
-![Streak](https://streak-stats.demolab.com?user=melyyyyhdz&theme=default&hide_border=true&ring=7F77DD&fire=D4537E&currStreakLabel=7F77DD)
+![Streak](https://streak-stats.demolab.com?user=melyyyhdz&theme=default&hide_border=true&ring=7F77DD&fire=D4537E&currStreakLabel=7F77DD)
 
 ---
 
