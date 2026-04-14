@@ -12,7 +12,6 @@
 - 🌱 Currently learning programming (C, Java, logic)
 - 🧠 I like to really understand things, not just copy code
 - 💭 Overthinker, but also a problem solver
-- 🎧 Music, anime & quiet moments keep me going
 - 🤝 Open to learning, improving and collaborating
 
 ---
