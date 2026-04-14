@@ -1,29 +1,29 @@
-# 👋 Hi, I'm Melany!
+# 👋 Hi, I'm Mel!
 
-🎓 **Frontend developer in training · Software Engineering student @ Universidad de Colima**
+🎓 Software Engineering student  
+💻 Learning step by step, building my own path in tech  
 
-> ✨ *If you feel like you're reaching your limit, remember why you're here.*
+> ✨ *I'm not where I want to be yet, but I'm closer than I was yesterday.*
 
 ---
 
 ## 🙋‍♀️ About me
 
-- 🌱 Learning to build web interfaces from scratch
-- 🎨 Passionate about design and user experience
-- 📺 When I'm not coding: anime and series to recharge
-- 🤝 Looking to collaborate on personal projects
+- 🌱 Currently learning programming (and surviving the process jaja)
+- 💭 I like to understand things deeply, not just "make them work"
+- 🧠 Constantly working on becoming a better version of myself
+- 🎧 Music, anime & random deep thoughts = my recharge
+- 🤝 Open to learning with others and growing together
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech I'm working with
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+> (little by little adding more… 🚀)
 
 ---
 
@@ -39,10 +39,10 @@
 
 ## 🚀 Currently
 
-- 📚 Studying and building my first portfolio
-- ⚛️ Getting better at React
-- 🎯 Open to personal projects and collabs
+- 📚 Learning programming fundamentals (C, Java, logic)
+- 🧩 Practicing problem solving and building small projects
+- 🎯 Trying to stay consistent (even when it's hard)
 
 ---
 
-💬 *Always open to learn, collaborate and grow.*
+💬 *Still learning, still growing… and not giving up.*
